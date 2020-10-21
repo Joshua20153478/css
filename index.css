@@ -1,0 +1,49 @@
+.color{
+    background-color: rgb(30, 51, 107);
+    text-align: center;
+}
+
+/* El atributo float sirve para alinear el texto dependiendo de la posición que se de, en este caso los renglones de arriba y abajo se alinearon con el final del texto*/
+#azul{
+    background-color: aquamarine;
+    margin: 50px;
+    font-size: 100px;
+    float: left;
+}
+
+
+.pruebaGrande{
+
+    color: blue;
+    font: oblique bold 120% cursive;
+    font-size: x-large;
+
+}
+/*en pading es la distancia que hay entre el contenido y el contenedor*/
+.contorno{
+    border: 2cm;
+    margin: 1px;
+    background-color: blueviolet;
+    height: 100px;
+    padding: 10px;
+
+}
+/*el display es un elemento para controlar las estructuras*/
+/*Un elemento que es block es comunmente llamado elemento block-level. Un elemento inline siempre es llamado elemento inline.
+Un elemento inline puede contener algo de texto dentro de un párrafo*/
+.display{
+    display:none;
+}
+.color{
+    background-color:blue;
+    color: darkgoldenrod;
+
+}
+.hola{
+    font: small-caps 100%/200% sans-serif;
+    font-size: 3cm;
+    font-weight: bold;
+}
+#rojo{
+    color: crimson;
+}
